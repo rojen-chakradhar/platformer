@@ -634,11 +634,10 @@ tile_map_data = PackedByteArray("AAABABIAAAAHAAMAAAABABMAAAABAAEAAAABABQAAAABAAI
 tile_set = SubResource("TileSet_sugp2")
 
 [node name="Player" parent="." unique_id=1748584370 instance=ExtResource("2_0wfyh")]
-position = Vector2(202, 466)
-scale = Vector2(0.2, 0.2)
+position = Vector2(213, 572)
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=439085472]
-position = Vector2(510, -148)
+position = Vector2(55, -55)
 zoom = Vector2(2.5, 2.5)
 limit_left = 96
 limit_top = 324
